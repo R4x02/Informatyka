@@ -78,3 +78,4 @@ for c in bledne_ciagi:
 with open("wynik3.txt", "w") as wynik3:
     for wyraz in bledne_wyrazy:
         wynik3.write(str(wyraz) + "\n")
+        
